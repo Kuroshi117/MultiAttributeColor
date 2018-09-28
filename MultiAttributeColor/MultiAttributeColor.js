@@ -1,6 +1,4 @@
-﻿//Issue with cuon-utils.js
-//Fails to load shader with this code
-var VSHADER_SOURCE =
+﻿var VSHADER_SOURCE =
     'attribute vec4 a_Position;\n' +
     'attribute vec4 a_Color;\n' +
     'varying vec4 v_Color;\n'+
